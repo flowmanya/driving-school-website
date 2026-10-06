@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Ориентир</title>
+  <desc id="desc">Компас и дорожная разметка</desc>
+  <rect width="64" height="64" rx="14" fill="#182337"/>
+  <circle cx="32" cy="32" r="21" fill="none" stroke="#f2f4ef" stroke-width="3"/>
+  <path d="M38 16 33 29l-13 6 11 3 5 11 3-12 9-8-10 1Z" fill="#ff6542"/>
+  <path d="M31 23v7M31 43v-7" stroke="#f2f4ef" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
